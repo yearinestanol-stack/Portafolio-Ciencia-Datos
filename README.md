@@ -28,5 +28,5 @@ Creación de dashboards y visualizaciones para apoyar la toma de decisiones.
 
 ## Contacto
 
-LinkedIn: [Tu enlace]
-Kaggle: [Tu enlace]
+LinkedIn: [www.linkedin.com/in/yearin-estañol-15b8b290]
+
